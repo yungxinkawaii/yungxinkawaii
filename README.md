@@ -51,12 +51,12 @@
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yungxinkawaii&show_icons=true&count_private=true&hide_border=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=shinyungxin&show_icons=true&count_private=true&hide_border=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yungxinkawaii&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shinyungxin&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yungxinkawaii&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyungxin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yungxinkawaii&show_icons=true&count_private=true&hide_border=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=shinyungxin&show_icons=true&count_private=true&hide_border=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yungxinkawaii&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinyungxin&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yungxinkawaii&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyungxin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 <br/>
 
