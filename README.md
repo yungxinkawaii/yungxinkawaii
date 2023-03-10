@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yungxin</h1>
 <h3 align="center">A passionate backend developer from Malaysia</h3>
 
-- 🔭 I’m currently working on **Some web3 hackathons**
+- 🔭 I’m currently working on **building my portfolio**
 
 - 🌱 I’m currently learning **ML & data-related topics**
 
