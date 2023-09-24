@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building my portfolio**
 
-- 🌱 I’m currently learning **ML & data-related topics**
+- 🌱 I’m currently learning **ML & cloud computing**
 
 - ⚡ Fun fact: **I don't dye my hair** & **I have 2 github accounts** ([my clone](https://github.com/shinyungxin))
 <br/>
